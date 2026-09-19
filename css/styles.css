@@ -51,11 +51,6 @@
   --md-sys-shape-corner-xl: 28px;
   --md-sys-shape-corner-full: 999px;
 
-  /* 字体 */
-  --md-sys-typescale-font-family: "Roboto", "PingFang SC", "Microsoft YaHei",
-    "Noto Sans SC", "Helvetica Neue", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --md-sys-typescale-font-family-code: "Roboto Mono", "SFMono-Regular", "JetBrains Mono",
-    Menlo, Consolas, "Liberation Mono", monospace;
 
   /* 状态层颜色（MD3 按压/悬停） */
   --md-state-hover: rgba(0, 104, 116, 0.08);
